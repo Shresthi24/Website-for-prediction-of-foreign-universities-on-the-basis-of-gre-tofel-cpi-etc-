@@ -1,0 +1,45 @@
+.navbar{
+	height: 20%;
+	border-radius: 0px;
+	
+}
+.bor{
+	margin-bottom: 0px
+}
+.na{
+border-radius: 0px;
+height: 20%
+}
+
+.caro{
+	height: 35%;
+	width: auto;
+	padding-right: 5%;
+	padding-left: 5%
+}
+
+.bor li{
+	margin-bottom: 5px;
+	color: white;
+}
+
+.carousel-inner  .item img{
+	height: 35%;
+	width: 100%;
+	
+}
+.ma{
+	background-color: rgb(244, 244, 244);
+}
+.main{
+	background-color: rgb(168, 218, 220,0.1);
+	width: auto;
+    border: 1px solid rgb(168, 218, 220,1);
+    padding: 4%;
+    margin: 4%;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

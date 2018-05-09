@@ -1,0 +1,27 @@
+.ful{
+	background-color: rgb(244, 244, 244); 
+}
+
+#formBasicText{
+	border-radius: 0px;
+	width: auto;
+}
+
+#asd{
+	border-radius: 0px;
+	width: 100%;
+}
+
+.box{
+	background-color: rgb(168, 218, 220,0.1);
+    width: auto;
+    border: 1px solid rgb(168, 218, 220,1);
+    padding: 4%;
+    margin: 2%;
+}
+
+.control-label::before { 
+    content: "*";
+    float: right;
+    color: red;
+}
